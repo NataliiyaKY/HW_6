@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+
+header {
+    height: 33vh;
+    background-color: darkgray;
+}
+
+main {
+    height: 67vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left {
+    height: 67vh;
+    width: 67vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.B {
+    height: 33vh;
+    width: 67vw;
+    background-color: darkcyan;
+}
+
+.C {
+    height: 34vh;
+    width: 22vw;
+    background-color: darkgoldenrod;
+}
+
+.D {
+    height: 34vh;
+    width: 22vw;
+    background-color: coral;
+}
+
+.E {
+    height: 34vh;
+    width: 23vw;
+    background-color: greenyellow;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right {
+    height: 67vh;
+    width: 33vw;
+    background-color: deeppink;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+

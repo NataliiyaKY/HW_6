@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+.A {
+    height: 33vh;
+    width: 100vw;
+    background-color: darkgray;
+}
+
+.B {
+    height: 67vh;
+    width: 82vw;
+    background-color: green;
+}
+
+.C {
+    height: 67vh;
+    width: 18vw;
+    background-color: pink;
+}
+
+div {
+    display: flex;
+}
